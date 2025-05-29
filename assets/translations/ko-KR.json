@@ -8,7 +8,7 @@
     "signInWith": "{sso}로 로그인"
   },
   "newList": {
-    "hottopic": "뜨거운 주제",
+    "hotTopic": "뜨거운 주제",
     "lastestNews": "최신 뉴스"
   }
 }

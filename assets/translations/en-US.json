@@ -8,7 +8,7 @@
     "signInWith": "Sign in with {sso}"
   },
   "newList": {
-    "hottopic": "Hot Topic",
+    "hotTopic": "Hot Topic",
     "lastestNews": "Latest News"
   }
 }
